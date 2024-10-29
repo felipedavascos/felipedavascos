@@ -12,7 +12,7 @@ Aqui estão algumas ideias para você começar:
 - ⚡ Curiosidade: ...
 
   
- ![YouTube](www.youtube.com)
+ [YouTube](www.youtube.com)
  
  ![](https://media.tenor.com/VOS-RQzUah8AAAAM/cast-net-fishing-fall.gif)
  ![](https://media.tenor.com/yviqAoLAGUAAAAAM/fishing-failarmy.gif)
